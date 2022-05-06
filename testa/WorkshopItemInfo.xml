@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<WorkshopItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublishedFileId>2804252144</PublishedFileId>
+  <Name>Island Invasion</Name>
+  <Description>Single mission campain starting from carriers, taking over an island, with bases and a VTOL assult
+
+by BlackSnowLlama</Description>
+  <IconFileName>image.png</IconFileName>
+  <Tags>
+    <string>Multiplayer Campaigns</string>
+  </Tags>
+</WorkshopItemInfo>
